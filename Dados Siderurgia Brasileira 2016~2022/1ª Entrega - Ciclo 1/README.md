@@ -1,17 +1,17 @@
-![image](https://user-images.githubusercontent.com/25395379/177664970-1367ae2f-b94f-4e9f-9887-11c614e99fef.png)
+![1 - Índice](https://user-images.githubusercontent.com/25395379/177838636-1cd14794-d385-4d5b-8e71-11a6f5df1bd6.png)
 
-![image](https://user-images.githubusercontent.com/25395379/177665667-4e05612d-db90-498a-b3bb-bb4f2e044bee.png)
+![2- Entendendo o negócio](https://user-images.githubusercontent.com/25395379/177838815-4a2c6c4f-c435-4a6f-a7c6-0b7e25edaabf.png)
 
-![image](https://user-images.githubusercontent.com/25395379/177665082-f6a6a87d-ba1e-4209-b612-7c98a7227f0a.png)
+![3- Questão de negócio](https://user-images.githubusercontent.com/25395379/177838832-e9c9bda5-03e0-4315-aa19-801440a4af56.png)
 
-![image](https://user-images.githubusercontent.com/25395379/177665308-e253614c-6b95-4552-8b62-5a2b10daa002.png)
+![4- Coleta de dados](https://user-images.githubusercontent.com/25395379/177838843-c4e46617-3d1d-4359-ba33-6f1347455753.png)
 
-![image](https://user-images.githubusercontent.com/25395379/177665349-e520702c-612a-4149-8c4c-2d7717d03313.png)
+![5- Limpeza de dados](https://user-images.githubusercontent.com/25395379/177838858-05bdd8a0-8f0c-4eb3-ac34-50b701fc7102.png)
 
-![image](https://user-images.githubusercontent.com/25395379/177665372-11bf8f2f-655e-4fcc-bffa-60318c9a18f7.png)
+![6- Limpeza de dados](https://user-images.githubusercontent.com/25395379/177838874-1529509f-3d4b-409c-90eb-00b88e156923.png)
 
-![image](https://user-images.githubusercontent.com/25395379/177665419-7f740dba-468a-4b09-a75d-7bd60b9a0e57.png)
+![7- Limpeza de dados](https://user-images.githubusercontent.com/25395379/177838891-3340994c-8345-462c-896c-5d50748893ad.png)
 
-![image](https://user-images.githubusercontent.com/25395379/177665442-60edb6ea-2cea-46b5-8b5a-3e3ff866b25c.png)
+![8- Explorando os dados](https://user-images.githubusercontent.com/25395379/177838911-56b59571-0721-4340-8687-733ee36c208a.png)
 
 [Link do dashboards](https://datastudio.google.com/u/0/reporting/a67bf0b8-aaf4-41ca-b825-3a1b2d8a539f/page/p_qb6fr845vc)
