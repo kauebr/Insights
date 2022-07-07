@@ -1,4 +1,4 @@
-![1 - Índice](https://user-images.githubusercontent.com/25395379/177838636-1cd14794-d385-4d5b-8e71-11a6f5df1bd6.png)
+![Laranja Ciclo Diagrama (3)](https://user-images.githubusercontent.com/25395379/177844265-ab00ecfb-5725-4d8a-802b-1ff45c569703.png)
 
 ![2- Entendendo o negócio](https://user-images.githubusercontent.com/25395379/177838815-4a2c6c4f-c435-4a6f-a7c6-0b7e25edaabf.png)
 
