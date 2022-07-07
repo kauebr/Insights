@@ -1,0 +1,2 @@
+Corrigir Português do readme.md
+Terminar análise dashboard
