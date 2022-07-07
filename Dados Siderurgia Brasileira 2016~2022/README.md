@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/25395379/177664970-1367ae2f-b94f-4e9f-9887-11c614e99fef.png)
 
-![Laranja Ciclo Diagrama](https://user-images.githubusercontent.com/25395379/177666533-13606df0-48dc-4feb-b349-4cd29142011d.png)
+![Laranja Ciclo Diagrama (1)](https://user-images.githubusercontent.com/25395379/177666698-698455a5-30ec-4170-9c25-bec426ec167b.png)
 
 ![image](https://user-images.githubusercontent.com/25395379/177665082-f6a6a87d-ba1e-4209-b612-7c98a7227f0a.png)
 
