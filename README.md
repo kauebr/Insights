@@ -1,1 +1,1 @@
-![Insghts (3)](https://user-images.githubusercontent.com/25395379/177890555-ad9eb955-b854-4629-aeae-5037c5317b08.png)
+![image](https://user-images.githubusercontent.com/25395379/177891325-e259cc67-0db0-4a4f-9c76-4526dcbe08bb.png)
