@@ -1,2 +1,4 @@
-Corrigir Português do readme.md
-Terminar análise dashboard
+1- Corrigir figura que mostra o data extrator printar uma nova
+e mostrar que ela mostra anomalias
+
+2- Refazer análise dashboard
