@@ -15,3 +15,5 @@
 ![Laranja Ciclo Diagrama (2)](https://user-images.githubusercontent.com/25395379/177839591-b9655c0c-2a32-4924-9ba3-0ea68da36d76.png)
 
 [Link do dashboards](https://datastudio.google.com/u/0/reporting/a67bf0b8-aaf4-41ca-b825-3a1b2d8a539f/page/p_qb6fr845vc)
+
+corrigir quadro quatro colocar figura certa e mostrar que ele indica também anomalias em vermelho
