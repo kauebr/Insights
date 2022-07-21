@@ -1,4 +1,14 @@
+0- colocar o intuito do diretorio que é demonstrar minha capacidade análitica
+
 1- Corrigir figura que mostra o data extrator printar uma nova
-e mostrar que ela mostra anomalias
+e mostrar que ela mostra anomalias -
 
 2- Refazer análise dashboard
+
+3- corrigir o nome do arquivo na foto "extrator de dados"
+ao invés de "limpeza de dados"
+
+4- colocar nas info que houveram várias validações dos dados
+
+5- colocar nas infors que os dados tiveram seu formato primitivo (int e data) corrigidos
+e uma vez feito isso foi fácial a manipulação dos dados no gds.
