@@ -1,6 +1,6 @@
 ![Laranja Ciclo Diagrama (3)](https://user-images.githubusercontent.com/25395379/177844265-ab00ecfb-5725-4d8a-802b-1ff45c569703.png)
 
-![2- Entendendo o negócio](https://user-images.githubusercontent.com/25395379/177838815-4a2c6c4f-c435-4a6f-a7c6-0b7e25edaabf.png)
+![image](https://user-images.githubusercontent.com/25395379/182380790-a6ee4492-3020-446f-a21c-1b6611e58ffd.png)
 
 ![3- Questão de negócio](https://user-images.githubusercontent.com/25395379/177838832-e9c9bda5-03e0-4315-aa19-801440a4af56.png)
 
