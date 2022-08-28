@@ -4,7 +4,7 @@
 
 ![3- Questão de negócio](https://user-images.githubusercontent.com/25395379/177838832-e9c9bda5-03e0-4315-aa19-801440a4af56.png)
 
-![4- Coleta de dados](https://user-images.githubusercontent.com/25395379/177838843-c4e46617-3d1d-4359-ba33-6f1347455753.png)
+![image](https://user-images.githubusercontent.com/25395379/186689139-1ef8ab13-7e1a-481e-9948-4309af704c25.png)
 
 ![5- Limpeza de dados](https://user-images.githubusercontent.com/25395379/177838858-05bdd8a0-8f0c-4eb3-ac34-50b701fc7102.png)
 
