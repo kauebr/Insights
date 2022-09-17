@@ -14,8 +14,8 @@ def ultimo_util(ano_inicial, ano_final):
             for dia in range(ultimo_dia_mes, 24, -1):
                 if cal.is_working_day(date(ano, mes, dia)) == True:
                     ultimo_dia_util = dia
-                    datas.append(f"{dia}/{mes}/{ano}")
-                    # print(f'O último dia útil de {meses[mes]}/{ano} : {dia}')
+                    x = date(ano, mes, dia)
+                    datas.append(str(x))
                     break
     return datas
 
