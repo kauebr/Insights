@@ -1,0 +1,17 @@
+estudar possibilidade de fazer nessa fase estatística descritiva dos dados contendo:
+
+média
+media precisa vir acompanha de uma medida de dispersão (desv pa
+quartis
+decis
+desvio medio 
+desvio medio med abs
+variancia amostral (graus de liberdade)
+desvio padrão quanto menor o desvio padrão maior a homogeniedade
+amplitude da amostra
+coeficiente de variação
+coefeiente de assimetria de pearson
+curtose
+coeficiene de curtose
+box plot -> para calcular quais são os outliers
+
