@@ -1,14 +1,1 @@
-![image](https://user-images.githubusercontent.com/25395379/192324648-414c4e3b-91e8-4049-be3b-0bd10dbabbca.png)
-![image](https://user-images.githubusercontent.com/25395379/192324689-ad4daa9b-60ea-43f2-b48e-920544bd96b1.png)
-![image](https://user-images.githubusercontent.com/25395379/192341111-5672f82e-1ba1-4e79-9638-2ade4477a59b.png)
-![image](https://user-images.githubusercontent.com/25395379/192324847-a385e938-8511-4e5b-bbda-c8318af3fb2a.png)
-![image](https://user-images.githubusercontent.com/25395379/192324885-381aeffd-d72a-4d02-8ddd-2d125a16cd34.png)
-![image](https://user-images.githubusercontent.com/25395379/192324928-6b2f8519-20bb-4be5-9145-f45cdf5661d0.png)
-![image](https://user-images.githubusercontent.com/25395379/192324960-87432874-8faa-4f62-a2f1-4feb0a4addd8.png)
-![image](https://user-images.githubusercontent.com/25395379/192325006-7b39006a-6a5e-418f-b937-60f65c3b0b56.png)
-![image](https://user-images.githubusercontent.com/25395379/192325124-7b35049c-cd4f-4b23-8d42-593147024fb5.png)
-![image](https://user-images.githubusercontent.com/25395379/192325174-a545abdb-3503-487e-b693-ff45221fefee.png)
-![image](https://user-images.githubusercontent.com/25395379/192325220-d1fb0b81-efdb-4d13-b30f-b36f897f5134.png)
-![image](https://user-images.githubusercontent.com/25395379/192325246-4c33f8c6-9a2c-474a-a513-addbbb140ff1.png)
-![image](https://user-images.githubusercontent.com/25395379/192325301-9646288a-0b3f-4728-ac4c-c574fc571521.png)
-
+<a href="https://youtu.be/Oz-M18OK5j4"><img src="https://i.ibb.co/8XVxKKW/Passo-01-Fluxograma-1.png" width="600" ></a>
