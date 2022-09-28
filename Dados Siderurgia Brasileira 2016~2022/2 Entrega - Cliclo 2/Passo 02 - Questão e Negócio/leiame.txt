@@ -32,8 +32,3 @@ Pegar a dor do cliente e em seguida
 Passar nessa fase os 5 porques
 
 
-o que eh tensor flow
-deploy oq eh
-o que sao redes neurais
-curso de estatistica brdesco
- o que eh lambda
