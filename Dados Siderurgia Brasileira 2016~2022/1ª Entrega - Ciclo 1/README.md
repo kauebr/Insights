@@ -1,5 +1,5 @@
 # Pitch em vídeo (Ainda não esta ativo)
-<a href="https://youtu.be/-0Fd8TM8V-s"><img src="https://i.ibb.co/mtRV0cr/Passo-01-Fluxograma-6.png" width="600"></a>
+<a href="about:blank"><img src="https://i.ibb.co/mtRV0cr/Passo-01-Fluxograma-6.png" width="600"></a>
 ## Entrega Escrita:
 ![Laranja Ciclo Diagrama (3)](https://user-images.githubusercontent.com/25395379/177844265-ab00ecfb-5725-4d8a-802b-1ff45c569703.png)
 
