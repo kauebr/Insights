@@ -1,5 +1,8 @@
 estudar possibilidade de fazer nessa fase estatística descritiva dos dados contendo:
 
+
+mas se for fazer, esta média tem que sem em cia da variação:
+
 média
 media precisa vir acompanha de uma medida de dispersão (desv pa
 quartis
