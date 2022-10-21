@@ -1,1 +1,0 @@
-Estes são os arquivos .csv não modelados, que utilizaremos para a comparação
