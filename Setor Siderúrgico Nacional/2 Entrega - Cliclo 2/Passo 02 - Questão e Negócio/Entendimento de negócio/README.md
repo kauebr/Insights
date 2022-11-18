@@ -1,5 +1,3 @@
-# Video ainda não esta pronto*
-<a href="xxx" target="_blank"><img src="https://i.ibb.co/nQ1NWk6/Passo-01-Fluxograma-4.png"  width="600"></a>
-<a href="https://flipbookpdf.net/web/site/03453f0fce88e50aea7792fdf331805fdcb17c3d202211.pdf.html"><img src="https://i.ibb.co/7pj7tvZ/Apresenta-o-escrita-1.png" width="600"></a>
+<a href="https://flipbookpdf.net/web/site/f72eb667236b0c71e5c07702f3c52ee07f2d5c77202211.pdf.html"><img src="https://i.ibb.co/7pj7tvZ/Apresenta-o-escrita-1.png" width="600"></a>
 
 
