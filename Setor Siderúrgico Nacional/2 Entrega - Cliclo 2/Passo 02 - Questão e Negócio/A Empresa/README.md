@@ -1,3 +1,3 @@
-<img src="https://github.com/kauebr/Insights/blob/main/Setor%20Sider%C3%BArgico%20Nacional/2%20Entrega%20-%20Cliclo%202/Passo%2002%20-%20Quest%C3%A3o%20e%20Neg%C3%B3cio/A%20empresa/Imagens/1.png?raw=true" width="800"></a>    
-<img src="https://github.com/kauebr/Insights/blob/main/Setor%20Sider%C3%BArgico%20Nacional/2%20Entrega%20-%20Cliclo%202/Passo%2002%20-%20Quest%C3%A3o%20e%20Neg%C3%B3cio/A%20empresa/Imagens/2.png?raw=true" width="800"></a>  
-<image src="https://github.com/kauebr/Insights/blob/main/Setor%20Sider%C3%BArgico%20Nacional/2%20Entrega%20-%20Cliclo%202/Passo%2002%20-%20Quest%C3%A3o%20e%20Neg%C3%B3cio/A%20empresa/Imagens/3.png?raw=true" width="800"></a>
+<img src="https://github.com/kauebr/Insights/blob/main/Setor%20Sider%C3%BArgico%20Nacional/2%20Entrega%20-%20Cliclo%202/Passo%2002%20-%20Quest%C3%A3o%20e%20Neg%C3%B3cio/A%20Empresa/Imagens/1.png?raw=true" width="800"></a>    
+<img src="https://github.com/kauebr/Insights/blob/main/Setor%20Sider%C3%BArgico%20Nacional/2%20Entrega%20-%20Cliclo%202/Passo%2002%20-%20Quest%C3%A3o%20e%20Neg%C3%B3cio/A%20Empresa/Imagens/2.png?raw=true" width="800"></a>
+<img src="https://github.com/kauebr/Insights/blob/main/Setor%20Sider%C3%BArgico%20Nacional/2%20Entrega%20-%20Cliclo%202/Passo%2002%20-%20Quest%C3%A3o%20e%20Neg%C3%B3cio/A%20Empresa/Imagens/3.png?raw=true" width="800"></a>  
