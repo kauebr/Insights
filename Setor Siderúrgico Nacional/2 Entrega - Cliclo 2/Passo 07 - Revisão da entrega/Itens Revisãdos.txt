@@ -1,0 +1,13 @@
+Corrigindo diretórios ok!
+Adcionado diretório insights/imagens para corrigir erro das fotos do imagebb que estavam sumindo ok
+passo 01 - fluxograma - Já estava ok, foi verificado.
+
+Passo 02 -  Questão e Negócio
+* diretórios reorganizados
+Novas coisas adicionadas:
+* Adicionei uma nova pasta sobre a empresa aonde dissertei sobre a empresa
+* Adciondei uma nova pasta entrevista com a empresa
+****FALTA UMA Análise das respostas****
+revisei ortográfia 
+Passo 03 e 04 - Coleta e limpeza dos dados
+
