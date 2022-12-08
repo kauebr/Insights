@@ -10,4 +10,6 @@ Novas coisas adicionadas:
 ****FALTA UMA Análise das respostas****
 revisei ortográfia 
 Passo 03 e 04 - Coleta e limpeza dos dados
+* Ortografica dos notebooks verificada com sucesso
+
 
