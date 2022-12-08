@@ -9,7 +9,14 @@ Novas coisas adicionadas:
 * Adciondei uma nova pasta entrevista com a empresa
 ****FALTA UMA Análise das respostas****
 revisei ortográfia 
+
 Passo 03 e 04 - Coleta e limpeza dos dados
-* Ortografica dos notebooks verificada com sucesso
+* Ortográfia dos notebooks verificada com sucesso
+
+Passo 05 - OK
+
+Passo 06 - Análise explorátoria
+* diretórios reorganizados
+
 
 
